@@ -35,16 +35,17 @@ Certifique-se de ter o **Python 3.x** instalado em sua máquina.
    
 ## 🛠️ Tecnologias Utilizadas
   - Python 3
-  - Biblioteca os (para interação com o sistema operacional)
-  - Biblioteca random (para sorteio aleatório)
+  - Biblioteca <tt>os</tt> (para interação com o sistema operacional)
+  - Biblioteca <tt>random</tt> (para sorteio aleatório)
 
 ## 🧠 Aprendizados
 Durante o desenvolvimento deste projeto, pude aprimorar:
 
-- Estruturação de código em funções.
-- Uso de List Comprehensions e estruturas condicionais.
-- Tratamento de entradas do usuário (Input Validation).
-- Lógica de loop while para controle de estados do jogo.
+- Estruturação de código em funções(<tt>def</tt>).
+- Uso de **List Comprehensions** e estruturas condicionais.
+- Tratamento de entradas do usuário (**Input Validation**).
+- Lógica de loop <tt>while</tt> para controle de estados do jogo.
+- Manipulação de Strings (<tt>upper</tt>, <tt>strip</tt>, <tt>join</tt>).
 
 <br>
-  <b> Desenvolvido por Guilherme Bodnar 
+  <div align="center"> Desenvolvido por <a href="https://github.com/bodnarguilherme">Guilherme Bodnar</a> </div>
